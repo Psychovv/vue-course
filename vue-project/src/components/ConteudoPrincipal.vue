@@ -14,6 +14,8 @@ export default {
     components: {
         SelecionarIngredientes,
     }
+}
+
 </script>
 
 <template>
