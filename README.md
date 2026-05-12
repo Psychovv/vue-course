@@ -1,4 +1,4 @@
-# Cookin' Up
+ # Cookin' Up
 
 Projeto desenvolvido durante um curso da Alura com foco em Vue.js e desenvolvimento front-end.
 
@@ -19,4 +19,4 @@ O Cookin' Up é uma aplicação de receitas criada para praticar conceitos de co
 Clone o repositório:
 
 ```bash
-git clone <https://github.com/Psychovv/vue-course>
+git clone https://github.com/Psychovv/vue-course
