@@ -7,7 +7,7 @@ export default {
 
   data() {
     return {
-      ingredientes: ['Tomate', 'Cebola', 'Alho', 'Pimenta', 'Azeite']
+      ingredientes: ['Alho', 'Manteiga', 'Oregano']
     };
   },
 

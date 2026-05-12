@@ -1,10 +1,8 @@
 <script lang="ts">
-import { obterCategorias } from '@/http';
+import { obterCategorias } from '@/http/index';
 import type ICategoria from '@/interfaces/ICategoria';
 
 export default {
-  name: 'SelecionarIngredientes',
-
   data() {
     return {
       categorias: [] as ICategoria[]
