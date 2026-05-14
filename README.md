@@ -14,9 +14,10 @@ O Cookin' Up é uma aplicação de receitas criada para praticar conceitos de co
 - CSS3
 - JavaScript
 
-## Como executar o projeto
+## Passo a passo de execucao
 
 Clone o repositório:
 
+1.
 ```bash
 git clone https://github.com/Psychovv/vue-course
